@@ -38,8 +38,15 @@ First step to build a software application is to recognize our needs. Thus, it i
 
 <p>
     Backend: The asynchronous property of NodeJS provides a high speed API for the application. Moreover, being similar to JS (TS) syntax of the client Frameworks encourages us to use NodeJS as the backend technology. There are many backend programming languages such as PHP, Java Spring, etc. 
-    The key advantages of NodeJS are as follows: 1. usefull in small teams 2. lots of frameworks 3. enormous community of developers 4. great number of libraries
+    The key advantages of NodeJS are as follows:
 </p>
+
+<ol>
+    <li>usefull in small teams</li>
+    <li>lots of frameworks</li>
+    <li>enormous community of developers</li>
+    <li>great number of libraries</li>
+</ol>
 
 <p>
     Some of the most popular tech stacks: MEAN, MERN, MEVN
@@ -55,21 +62,4 @@ First step to build a software application is to recognize our needs. Thus, it i
 <p>
     This is one of the key parts of developing an application. The application should not go down on heavy loads of users or requests. Choosing the right infrastructure and deployment techniques can make an outstanding application. Cloud service providers like Google Cloud Platform and Amazon Web Service offer many cloud computing services Like Iaas, DBaaS, Paas, Serverless, etc. 
     It is recommended to deploy the container images on Iaas servers and manage them, but in order to lower the cost of the application we can use serverless computing service of AWS Lambda. In this approach, We do not worry of how many Gigabytes of RAM or Storage should we asign to our server or how to manage them. It is worth mentioning that this approach brings less control on the resources.
-</p>
-
-
-<p>
-
-</p>
-
-
-<p>
-    
-    UML
-    ERD
-    Tech Stack
-    CI/CD and test deployment on AWS Iaas
-    Wireframing and user-flow diagrams
-    PWA - Reactjs or Vuejs Export for Android or IOS (Hybrid applications) - Flutter
-    Production deployment
 </p>
