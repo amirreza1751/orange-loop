@@ -1,4 +1,17 @@
-# orange-loop
+# orange-loop test questions
+
+<h2>Question 1 and 2</h2>
+<p>
+    The answer of these questions are provided in q1.ts and q2.ts.
+    Run using:
+    ```
+        npm i -g ts-node
+        ts-node ./q1.ts
+        ts-node ./q2.ts
+    ```
+</p>
+
+
 <h2>
     Question 3 - Resource-limited Decision Making
 </h2>

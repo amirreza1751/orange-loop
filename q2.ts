@@ -18,12 +18,8 @@ function count_smaller_elements(arr1:Array<number>,arr2:Array<number>,m:number,n
     console.log("Array1", arr1.toString())
     console.log("Array2", arr2.toString())
 
-
-
     for (let i = 0; i < n; i++) {
         let index = binary_search(arr1, 0, m - 1, arr2[i]);
-
-
         console.log("Element:", arr2[i], "Count:", (index + 1));
     }
 }
