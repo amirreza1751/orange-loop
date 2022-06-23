@@ -63,14 +63,9 @@ First step to build a software application is to recognize our needs. Thus, it i
     Some of the most popular tech stacks: MEAN, MERN, MEVN
 </p>
 
-<p>
-    After choosing the proper tech stack for development, the development team supposed to draw the wireframes and user-flow diagrams. By creating the former, we will be able to have an idea of the final shape of the application, and the latter helps us to have an understanding of the flow of each transaction.
-</p>
-
-
 
 <h3> Deployment and Infrastructure </h3>
 <p>
     This is one of the key parts of developing an application. The application should not go down on heavy loads of users or requests. Choosing the right infrastructure and deployment techniques can make an outstanding application. Cloud service providers like Google Cloud Platform and Amazon Web Service offer many cloud computing services Like Iaas, DBaaS, Paas, Serverless, etc. 
-    It is recommended to deploy the container images on Iaas servers and manage them, but in order to lower the cost of the application we can use serverless computing service of AWS Lambda. In this approach, We do not worry of how many Gigabytes of RAM or Storage should we asign to our server or how to manage them. It is worth mentioning that this approach brings less control on the resources.
+    It is recommended to deploy the container images on Iaas servers and manage them, but in order to lower the cost of the application we can use serverless computing service of AWS Lambda. In this approach, We do not worry of how many Gigabytes of RAM or Storage should we assign to our server or how to manage them. It is worth mentioning that this approach brings less control on the resources.
 </p>
