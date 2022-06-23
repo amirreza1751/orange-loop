@@ -3,7 +3,7 @@
 <h2>Question 1 and 2</h2>
 <p>
     The answer of these questions are provided in q1.ts and q2.ts.
-    Run the followings:
+    Run the following:
 </p>
 
         npm i -g ts-node
