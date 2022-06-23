@@ -4,13 +4,11 @@
 <p>
     The answer of these questions are provided in q1.ts and q2.ts.
     Run using:
-    ```
+</p>
+
         npm i -g ts-node
         ts-node ./q1.ts
         ts-node ./q2.ts
-    ```
-</p>
-
 
 <h2>
     Question 3 - Resource-limited Decision Making
